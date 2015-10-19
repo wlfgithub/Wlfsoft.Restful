@@ -1,0 +1,36 @@
+{
+  "name": "wlfsoft.restful",
+  "version": "1.0.0",
+  "description": "wlfsoft restful",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlfgithub/Wlfsoft.Restful.git"
+  },
+  "keywords": [
+    "node",
+    "restful"
+  ],
+  "author": "wlf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlfgithub/Wlfsoft.Restful/issues"
+  },
+  "homepage": "https://github.com/wlfgithub/Wlfsoft.Restful#readme",
+  "dependencies": {
+	  "debug": "^2.2.0",
+	  "lodash": "^3.10.1",
+	  "md5": "^2.0.0",
+	  "mongodb-wrapper": "^1.0.3",
+      "node-restify-validation": "^1.0.4",
+	  "restify": "^4.0.0",
+	  "q": "^1.4.1",
+	  "uuid": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
